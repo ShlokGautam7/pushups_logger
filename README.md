@@ -1,0 +1,1 @@
+This web app is a minimal clone of http://www.pushupslogger.com to implement basic CRUD and User Authentication functionality using Flask. You can add your push-ups workout here, track and visualise them.
