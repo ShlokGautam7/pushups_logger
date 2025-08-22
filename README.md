@@ -1,18 +1,29 @@
-# Push-Ups Logger (Flask Clone)
+# 🏋️‍♂️ Push-Ups Logger  
 
-A lightweight Flask web app clone of PushupsLogger.com
-It lets users create accounts, log their push-up workouts, view, edit, and delete entries, and visualize their progress over time.
+A simple **Flask-based web app** to log, track, and manage your push-up workouts with **user authentication** and **CRUD functionality**.  
 
-## Features
+---
 
--User Authentication — Sign up, log in, securely manage sessions.
--CRUD Operations — Add, view, update, and delete push-up entries.
--Data Visualization — Track workout history with charts or visual summaries.
--Minimal & Functional — Simple interface for focused fitness logging.
+## ✨ Features  
 
-## Tech Stack
+- 👤 **User Authentication** – Sign up, log in, and manage accounts  
+- ➕ **Add Workouts** – Record number of push-ups with optional comments  
+- 📖 **View Workouts** – Track your history in a clean table format  
+- ✏️ **Update Workouts** – Edit entries easily  
+- ❌ **Delete Workouts** – Remove workouts if needed  
+- 🗄 **SQLite Database** with SQLAlchemy ORM  
+- 🎨 **Bootstrap + Custom CSS** styling  
 
--Python and Flask
--Database
--Templating
--Requirements managed via requirements.txt
+---
+
+## 🛠 Tech Stack  
+
+- **Backend:** Flask (Python)  
+- **Database:** SQLite + SQLAlchemy  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Authentication:** Flask-Login  
+- **Deployment Ready**  
+
+---
+git clone https://github.com/<your-username>/pushups-logger.git
+cd pushups-logger
