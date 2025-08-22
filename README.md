@@ -25,5 +25,3 @@ A simple **Flask-based web app** to log, track, and manage your push-up workouts
 - **Deployment Ready**  
 
 ---
-git clone https://github.com/<your-username>/pushups-logger.git
-cd pushups-logger
